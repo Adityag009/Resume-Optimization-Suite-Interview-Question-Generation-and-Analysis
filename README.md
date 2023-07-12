@@ -1,1 +1,3 @@
 # Resume-Optimization-Suite-Interview-Question-Generation-and-Analysis
+
+o	The Resume Optimization Suite is an advanced tool designed to boost resume effectiveness and interview preparedness. It leverages cutting-edge language models to generate tailored interview questions based on the content of the provided resume. Additionally, the suite performs an in-depth analysis of the resume against a given job description, highlighting areas that require attention or enhancement. With its intelligent features, this suite empowers job seekers to create compelling resumes and excel in interview scenarios.

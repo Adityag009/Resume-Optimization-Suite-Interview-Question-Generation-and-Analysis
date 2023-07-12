@@ -3,7 +3,7 @@ import openai
 
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Define the function to generate interview questions
 def generate_interview_questions(resume_text):

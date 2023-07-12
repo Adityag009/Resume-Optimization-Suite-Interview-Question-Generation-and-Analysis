@@ -4,7 +4,7 @@ import openai
 # Set up OpenAI API credentials
 openai.api_key = "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"
 
-# Define the function to generate interview questions
+# Define the function to generate interview question
 def generate_interview_questions(resume_text):
     prompt = "Based on the provided resume, generate interview questions for the candidate:\n\nResume: " + resume_text + "\n\nQuestion:"
     response = openai.Completion.create(
@@ -58,4 +58,3 @@ if st.button("Analyze Resume"):
         st.write(feedback)
     else:
         st.error("Please enter both the job description and resume for analysis.")
-
